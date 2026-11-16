@@ -1,0 +1,16 @@
+order_id,order_date,customer,product,category,region,quantity,unit_price,unit_cost
+SN-1001,2026-08-02,Aarav Sharma,Wireless Mouse,Electronics,North,3,799,420
+SN-1002,2026-08-05,Diya Mehta,Mechanical Keyboard,Electronics,West,2,2499,1450
+SN-1003,2026-08-11,Rohan Das,USB-C Hub,Accessories,East,4,1299,650
+SN-1004,2026-08-18,Meera Iyer,Wireless Mouse,Electronics,South,2,799,420
+SN-1005,2026-09-03,Kabir Singh,Monitor Stand,Accessories,North,3,1899,950
+SN-1006,2026-09-08,Ananya Roy,Mechanical Keyboard,Electronics,East,1,2499,1450
+SN-1007,2026-09-14,Ishaan Gupta,USB-C Hub,Accessories,West,5,1299,650
+SN-1008,2026-09-22,Sara Khan,Noise Cancelling Headphones,Audio,South,2,4999,3100
+SN-1009,2026-10-01,Arjun Nair,Wireless Mouse,Electronics,North,6,799,420
+SN-1010,2026-10-06,Tara Bose,Noise Cancelling Headphones,Audio,East,3,4999,3100
+SN-1011,2026-10-12,Dev Patel,Monitor Stand,Accessories,West,2,1899,950
+SN-1012,2026-10-20,Nisha Verma,USB-C Hub,Accessories,South,4,1299,650
+SN-1013,2026-11-02,Aditya Sen,Mechanical Keyboard,Electronics,North,2,2499,1450
+SN-1014,2026-11-05,Priya Das,Wireless Mouse,Electronics,East,5,799,420
+SN-1015,2026-11-09,Vihaan Rao,Noise Cancelling Headphones,Audio,West,1,4999,3100
